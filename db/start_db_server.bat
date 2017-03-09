@@ -1,0 +1,1 @@
+start mysqld.exe --defaults-file=./my.ini --datadir=./data --standalone

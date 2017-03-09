@@ -1,0 +1,15 @@
+2017-03-09T14:58:06.078050Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2017-03-09T14:58:06.078050Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2017-03-09T14:58:08.433641Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2017-03-09T14:58:08.949218Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2017-03-09T14:58:09.116827Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: cf0a8d61-04d8-11e7-93c8-14dae9ec2b2c.
+2017-03-09T14:58:09.149590Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2017-03-09T14:58:09.149590Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2017-03-09T14:58:25.760688Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2017-03-09T14:58:25.760688Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2017-03-09T14:58:25.760688Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2017-03-09T14:58:25.760688Z 0 [Note] mysqld.exe (mysqld 5.7.17-log) starting as process 8312 ...
+2017-03-09T14:58:38.836304Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2017-03-09T14:58:38.836304Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2017-03-09T14:58:38.836304Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2017-03-09T14:58:38.836304Z 0 [Note] mysqld.exe (mysqld 5.7.17-log) starting as process 7004 ...
